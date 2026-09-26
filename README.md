@@ -1,16 +1,28 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**Deffout/Deffout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Currently working on:** Server Development
+- 💬 **Ask me about:** Vue.js, C#, C++, TypeScript
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,cs,js,ts,nodejs,electron,mysql,vite&theme=dark" />
+  </a>
+</p>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+[![Deffout's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deffout&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deffout&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Deffout&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 📫 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/telegram-11151a?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/t.me/@Deffout) 
