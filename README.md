@@ -15,10 +15,6 @@
 
 <div align="center">
 
-[![Deffout's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deffout&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deffout&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Deffout&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
