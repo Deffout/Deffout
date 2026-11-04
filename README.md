@@ -18,7 +18,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Deffout&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-## 📫 Connect With Me
-
-[![Telegram](https://img.shields.io/badge/telegram-11151a?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/t.me/@Deffout) 
