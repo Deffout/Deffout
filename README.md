@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-- 💬 **Ask me about:** Vue.js, C#, C++, TypeScript
+- 💬 **Ask me about:** Vue.js, C#, TypeScript
 
 ## 🛠 Tech Stack
 
