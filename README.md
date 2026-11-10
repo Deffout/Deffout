@@ -1,6 +1,5 @@
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Server Development
 - 💬 **Ask me about:** Vue.js, C#, C++, TypeScript
 
 ## 🛠 Tech Stack
