@@ -1,8 +1,4 @@
-## 🚀 About Me
-
-- 💬 **Ask me about:** Vue.js, C#, TypeScript
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +6,7 @@
   </a>
 </p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
